@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import ListingPage from './Components/ListingPage/ListingPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <span>Latest Blog posts</span>
+    <ListingPage />
   </React.StrictMode>
 );
