@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Posts-listing-veridic/static/css/main.dfa582c0.css",
+    "main.js": "/Posts-listing-veridic/static/js/main.eaacb8f8.js",
+    "index.html": "/Posts-listing-veridic/index.html",
+    "main.dfa582c0.css.map": "/Posts-listing-veridic/static/css/main.dfa582c0.css.map",
+    "main.eaacb8f8.js.map": "/Posts-listing-veridic/static/js/main.eaacb8f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa582c0.css",
+    "static/js/main.eaacb8f8.js"
+  ]
+}
